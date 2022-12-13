@@ -4,15 +4,15 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Avalanche by @willtanoe
+kernel.string=Avalanche Kernel by @willtanoee
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=sweetin
-device.name2=sweet
-supported.versions=12 - 13
+device.name1=courbet
+device.name2=courbetin
+supported.versions=11 - 13
 supported.patchlevels=
 '; } # end properties
 
